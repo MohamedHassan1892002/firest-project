@@ -43,6 +43,22 @@ header div p {
 
 /* end header  */
 
+/* start about */
+
+.about img{
+    border-radius: 10px;
+}
+.about ul{
+    list-style: none;
+    padding:  0;
+}
+.about ul li{
+    padding: 0.5rem;
+}
+.about ul li span{
+    font-weight: 600;
+}
+/* end about */
 
 
 
